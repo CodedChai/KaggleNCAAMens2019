@@ -14,4 +14,5 @@ I am definitely very excited that I was able to create a submission and I can't 
 [Thanks to Mark's Math for visualizing my submission](https://www.marksmath.org/visualization/kaggle_brackets/)
 
 [Link to my Kernel](https://www.kaggle.com/codedchai/seed-score-keras-action)
+
 [Link to the Kaggle Competition](https://www.kaggle.com/c/mens-machine-learning-competition-2019/overview)

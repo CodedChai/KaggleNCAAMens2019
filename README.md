@@ -2,7 +2,7 @@
 
 ### Summary
 
-This is my first real Kaggle competition as I begin diving into Machine Learning. I used Keras to build my Sequential model using a Sigmoid activation function and binary crossentropy loss. I used the Score of the first team, the sead of the first team, the region of both teams, the difference in seed and the difference in score to train my model. For the tourney predictions I averaged out the scores for the season and used that. None of this data was associated with any specific team ID. 
+This is my first real Kaggle competition as I begin diving into Machine Learning. I used Keras to build my Sequential model using a Sigmoid activation function and binary crossentropy loss. I used the Score of the first team, the seed of the first team, the region of both teams, the difference in seed and the difference in score to train my model. For the tourney predictions I averaged out the scores for the season and used that. None of this data was associated with any specific team ID. 
 
 This was way more about me learning to use Python and Pandas than it was about me building a good model. I also don't know very much about Basketball so I wasn't sure what data would be good to use. Next year I will definitely put more research into it to try to give myself a chance to compete reasonably well.
 
